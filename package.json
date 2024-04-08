@@ -1,6 +1,6 @@
 {
   "name": "mus-cli-atm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple Cli based atm that shows transactions , balance check on specific pin of debetcard of user.",
   "main": "index.js",
   "type": "module",
