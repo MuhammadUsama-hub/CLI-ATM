@@ -4,6 +4,7 @@
   "description": "A simple Cli based atm that shows transactions , balance check on specific pin of debetcard of user.",
   "main": "index.js",
   "type": "module",
+  "bin": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
